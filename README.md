@@ -1,31 +1,31 @@
-# 👋 Hello, I'm Praveen !
+# 👋 Hello, I'm Praveen!
 
 ## 🚀 About Me
 
-Welcome to my GitHub! I'm a passionate Software Developer who loves diving into new technologies and building cool stuff. My coding journey involves creating applications, exploring technologies and experimenting with ReactNative. When I'm not coding, you'll find me Reading Manga and watching Anime.
+Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Software Developer on a journey of tech exploration. From crafting apps to diving into ReactNative adventures, I thrive on pushing boundaries. Beyond the screen, you'll catch me in the Manga universe or lost in Anime realms.
 
 ## 💻 Skills & Tools
 
 - **Languages:** Java, C, C++, Python, HTML, CSS, JavaScript
-- **Tech Stack:** Git, Nodejs, ReactNative, Express, MySQL, PgSQL, MongoDB, Markdown
-- **Interests:** Web Development, Mobile Application Development
+- **Tech Stack:** Git, Node.js, ReactNative, Express, MySQL, PgSQL, MongoDB, Markdown
+- **Interests:** Web Development, Mobile App Innovation
 
 ## 🚧 Current Projects
 
-Here are a couple of projects I'm tinkering with:
+👨‍💻 Currently, I'm tinkering with two exciting projects:
 
-- [File vault using face detection](https://github.com/Praveen-mc/Face-detection):Explore a discreet file-hiding solution with this project—a simple container meticulously designed to keep your private files out of sight from others..
-- [AI Web based chatbot](https://github.com/Praveen-mc/ChatBot_Flask): Introducing my web-based AI chatbot, a rule-based system meticulously crafted for college purposes. This intelligent virtual assistant is designed to streamline communication, provide instant information, and enhance user experience within the college environment..
+- [Face Detection File Vault](https://github.com/Praveen-mc/Face-detection): Uncover the secrets of this project—a sleek container tailored to discreetly hide private files using face detection technology.
+- [College AI Chatbot](https://github.com/Praveen-mc/ChatBot_Flask): Step into the future with my web-based AI chatbot, revolutionizing college communication with rule-based intelligence for instant information and enhanced user experience.
 
-Feel free to explore them, open issues, or even contribute!
+Feel free to explore, open issues, or contribute!
 
 ## 🤔 Let's Connect!
 
-I'm not just about code. Let's chat about:
+🌐 I'm more than code! Let's chat about:
 
-- 📰 The latest tech trends
-- 🌐 Exciting open-source projects
-- 🎮 Your favorite video games
+- The latest tech trends 📈
+- Exciting open-source projects 🚀
+- Your favorite video games 🎮
 
 Connect with me on:
 
@@ -34,12 +34,11 @@ Connect with me on:
 
 ## 🌱 Learning & Growing
 
-Currently, I'm deep into mastering MERN Stack. If you have any cool resources or tips, share them with me!
-
+🚀 Currently, I'm delving deep into mastering the MERN Stack. If you have cool resources or tips, share them with me!
 
 ## 👥 Let's Collaborate
 
-I'm always open to collaboration! If you have a project idea, need help, or just want to chat, feel free to reach out.
-
-
+🤝 The door to collaboration is always open! Whether you have a project idea, need assistance, or just want to chat, reach out anytime.
+---
+© 2024 Praveen.
 ---
