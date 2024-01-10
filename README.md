@@ -40,5 +40,4 @@ Connect with me on:
 
 🤝 The door to collaboration is always open! Whether you have a project idea, need assistance, or just want to chat, reach out anytime.
 ---
-© 2024 Praveen.
----
+
