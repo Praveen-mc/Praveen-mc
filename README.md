@@ -14,7 +14,7 @@ Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Softw
 
 👨‍💻 Currently, I'm tinkering with two exciting projects:
 
-- [Face Detection File Vault](https://github.com/Praveen-mc/Face-detection): Uncover the secrets of this project—a sleek container tailored to discreetly hide private files using face detection technology.
+- [Face Detection File Vault](https://github.com/Praveen-mc/face-recognition-vault): Uncover the secrets of this project—a sleek container tailored to discreetly hide private files using face detection technology.
 - [College AI Chatbot](https://github.com/Praveen-mc/ChatBot_Flask): Step into the future with my web-based AI chatbot, revolutionizing college communication with rule-based intelligence for instant information and enhanced user experience.
 
 Feel free to explore, open issues, or contribute!
