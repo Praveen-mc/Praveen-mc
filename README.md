@@ -1,5 +1,10 @@
 # 👋 Hello, I'm Praveen!
 
+<!-- Adding a boy gif at the top -->
+<div align="center">
+  <img src="https://media.giphy.com/media/l2JJu7Qc7SGag48dC/giphy.gif" alt="Boy Gif" width="200"/>
+</div>
+
 ## 🚀 About Me
 
 Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Software Developer on a journey of tech exploration. From crafting apps to diving into ReactNative adventures, I thrive on pushing boundaries. Beyond the screen, you'll catch me in the Manga universe or lost in Anime realms.
@@ -39,5 +44,10 @@ Connect with me on:
 ## 👥 Let's Collaborate
 
 🤝 The door to collaboration is always open! Whether you have a project idea, need assistance, or just want to chat, reach out anytime.
----
 
+<!-- Adding GitHub stats and profile views -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Praveen-mc&show_icons=true&theme=radical" alt="Praveen's GitHub Stats">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Praveen-mc" alt="Profile Views">
+</div>
