@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Praveen!
 
-
 ## 🚀 About Me
 
 Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Software Developer on a journey of tech exploration. From crafting apps to diving into ReactNative adventures, I thrive on pushing boundaries. Beyond the screen, you'll catch me in the Manga universe or lost in Anime realms.
@@ -8,7 +7,7 @@ Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Softw
 ## 💻 Skills & Tools
 
 <div align="center">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-df4RcH79W1jxV21eWKhT1RzHTRn0MPA9AAe9MzUJQD1ShYmuWiT0pzUOn+UpJcCd" crossorigin="anonymous">
   <i class="fab fa-java fa-3x" title="Java"></i>
   <i class="fab fa-cuttlefish fa-3x" title="C"></i>
   <i class="fab fa-cuttlefish fa-3x" title="C++"></i>
@@ -16,11 +15,9 @@ Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Softw
   <i class="fab fa-html5 fa-3x" title="HTML"></i>
   <i class="fab fa-css3-alt fa-3x" title="CSS"></i>
   <i class="fab fa-js fa-3x" title="JavaScript"></i>
-
 </div>
 
 <div align="center">
-
   <i class="fab fa-git fa-3x" title="Git"></i>
   <i class="fab fa-node-js fa-3x" title="Node.js"></i>
   <i class="fab fa-react fa-3x" title="ReactNative"></i>
@@ -29,6 +26,7 @@ Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Softw
   <i class="fas fa-database fa-3x" title="PgSQL"></i>
   <i class="fab fa-envira fa-3x" title="MongoDB"></i>
   <i class="fab fa-markdown fa-3x" title="Markdown"></i>
+</div>
 
 - **Interests:** Web Development, Mobile App Innovation
 
