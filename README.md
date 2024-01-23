@@ -7,28 +7,28 @@ Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Softw
 
 ## 💻 Skills & Tools
 
-## 💻 Skills & Tools
-
 <div align="center">
-  <img src="https://example.com/java.gif" alt="Java" width="50" height="50">
-  <img src="https://example.com/c.gif" alt="C" width="50" height="50">
-  <img src="https://example.com/cpp.gif" alt="C++" width="50" height="50">
-  <img src="https://example.com/python.gif" alt="Python" width="50" height="50">
-  <img src="https://example.com/html.gif" alt="HTML" width="50" height="50">
-  <img src="https://example.com/css.gif" alt="CSS" width="50" height="50">
-  <img src="https://example.com/javascript.gif" alt="JavaScript" width="50" height="50">
+
+  <i class="fab fa-java fa-3x" title="Java"></i>
+  <i class="fab fa-cuttlefish fa-3x" title="C"></i>
+  <i class="fab fa-cuttlefish fa-3x" title="C++"></i>
+  <i class="fab fa-python fa-3x" title="Python"></i>
+  <i class="fab fa-html5 fa-3x" title="HTML"></i>
+  <i class="fab fa-css3-alt fa-3x" title="CSS"></i>
+  <i class="fab fa-js fa-3x" title="JavaScript"></i>
+
 </div>
 
 <div align="center">
-  <img src="https://example.com/git.gif" alt="Git" width="50" height="50">
-  <img src="https://example.com/nodejs.gif" alt="Node.js" width="50" height="50">
-  <img src="https://example.com/reactnative.gif" alt="ReactNative" width="50" height="50">
-  <img src="https://example.com/express.gif" alt="Express" width="50" height="50">
-  <img src="https://example.com/mysql.gif" alt="MySQL" width="50" height="50">
-  <img src="https://example.com/pgsql.gif" alt="PgSQL" width="50" height="50">
-  <img src="https://example.com/mongodb.gif" alt="MongoDB" width="50" height="50">
-  <img src="https://example.com/markdown.gif" alt="Markdown" width="50" height="50">
-</div>
+
+  <i class="fab fa-git fa-3x" title="Git"></i>
+  <i class="fab fa-node-js fa-3x" title="Node.js"></i>
+  <i class="fab fa-react fa-3x" title="ReactNative"></i>
+  <i class="fab fa-node-js fa-3x" title="Express"></i>
+  <i class="fas fa-database fa-3x" title="MySQL"></i>
+  <i class="fas fa-database fa-3x" title="PgSQL"></i>
+  <i class="fab fa-envira fa-3x" title="MongoDB"></i>
+  <i class="fab fa-markdown fa-3x" title="Markdown"></i>
 
 - **Interests:** Web Development, Mobile App Innovation
 
