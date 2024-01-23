@@ -1,9 +1,5 @@
 # 👋 Hello, I'm Praveen!
 
-<!-- Adding a boy gif at the top -->
-<div align="center">
-  <img src="https://media.giphy.com/media/l2JJu7Qc7SGag48dC/giphy.gif" alt="Boy Gif" width="200"/>
-</div>
 
 ## 🚀 About Me
 
