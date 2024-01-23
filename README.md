@@ -7,8 +7,27 @@ Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Softw
 
 ## 💻 Skills & Tools
 
-- **Languages:** Java, C, C++, Python, HTML, CSS, JavaScript
-- **Tech Stack:** Git, Node.js, ReactNative, Express, MySQL, PgSQL, MongoDB, Markdown
+<div align="center">
+  <img src="java.gif" alt="Java" width="50" height="50">
+  <img src="c.gif" alt="C" width="50" height="50">
+  <img src="cpp.gif" alt="C++" width="50" height="50">
+  <img src="python.gif" alt="Python" width="50" height="50">
+  <img src="html.gif" alt="HTML" width="50" height="50">
+  <img src="css.gif" alt="CSS" width="50" height="50">
+  <img src="javascript.gif" alt="JavaScript" width="50" height="50">
+</div>
+
+<div align="center">
+  <img src="git.gif" alt="Git" width="50" height="50">
+  <img src="nodejs.gif" alt="Node.js" width="50" height="50">
+  <img src="reactnative.gif" alt="ReactNative" width="50" height="50">
+  <img src="express.gif" alt="Express" width="50" height="50">
+  <img src="mysql.gif" alt="MySQL" width="50" height="50">
+  <img src="pgsql.gif" alt="PgSQL" width="50" height="50">
+  <img src="mongodb.gif" alt="MongoDB" width="50" height="50">
+  <img src="markdown.gif" alt="Markdown" width="50" height="50">
+</div>
+
 - **Interests:** Web Development, Mobile App Innovation
 
 ## 🚧 Current Projects
