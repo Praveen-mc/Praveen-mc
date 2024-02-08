@@ -1,14 +1,26 @@
-# 👋 Hello, Praveen!
+# 👋 Hello, I'm Praveen!
 
 ## 🚀 About Me
 
-Hey Praveen! Your passion for tech and exploration is evident. Whether it's crafting apps or delving into ReactNative, your journey is inspiring. And, of course, the Manga and Anime realms add a delightful touch to your profile!
+Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Software Developer on a journey of tech exploration. From crafting apps to diving into ReactNative adventures, I thrive on pushing boundaries. Beyond the screen, you'll catch me in the Manga universe or lost in Anime realms.
 
-## 💻 Skills & Tools
+## 🔧 Tech Stack & Languages
 
-- **Languages:** Java, C, C++, Python, HTML, CSS, JavaScript
-- **Tech Stack:** Git, Node.js, ReactNative, Express, MySQL, PgSQL, MongoDB, Markdown
-- **Interests:** Web Development, Mobile App Innovation
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
+<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
+<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
+<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
+<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
+
 
 ## 🚧 Current Projects
 
@@ -48,22 +60,7 @@ Connect with me on:
   <img src="https://komarev.com/ghpvc/?username=Praveen-mc" alt="Profile Views">
 </div>
 
-## 🔧 Tech Stack & Languages
 
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HTML" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" />
-<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
-<img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
 
 
 
