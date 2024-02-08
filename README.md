@@ -20,7 +20,7 @@ Hey there! Welcome to my code haven! 👨‍💻 I'm Praveen, a passionate Softw
 <img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
 <img align="left" alt="JS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" />
-
+<br>
 
 ## 🚧 Current Projects
 
